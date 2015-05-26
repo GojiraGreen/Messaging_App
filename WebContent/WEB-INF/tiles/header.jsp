@@ -8,7 +8,6 @@
 			rel="stylesheet" type="text/css" />
 		<script type="text/javascript" src="${pageContext.request.contextPath }/static/js/jquery-1.11.3.min.js"></script>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>Insert title here</title>
 	</head>
 	<body>
 		<div style="min-width: 45em; width: 60%;" class="panel panel-primary">

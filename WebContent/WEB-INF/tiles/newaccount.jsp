@@ -50,7 +50,7 @@ $(document).ready(onLoad);
 
 		<!-- Default panel contents -->
 		<div class="panel-heading">
-			New message <span class="label label-primary"><a
+			New Account <span class="label label-primary"><a
 				href="${pageContext.request.contextPath }/">homepage</a></span>
 		</div>
 		<div class="panel-body">

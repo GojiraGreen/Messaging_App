@@ -18,49 +18,49 @@
 	</definition>
 	
 	<definition name="newaccount" extends="messages.base">
-		<put-attribute  name="title" value="Offers Homepage"></put-attribute>
+		<put-attribute  name="title" value="New Account"></put-attribute>
 		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp"></put-attribute>
 		<put-attribute name="content" value="/WEB-INF/tiles/newaccount.jsp"></put-attribute>
 		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp"></put-attribute>
 	</definition>
 	
 	<definition name="admin" extends="messages.base">
-		<put-attribute  name="title" value="Offers Homepage"></put-attribute>
+		<put-attribute  name="title" value="Administration"></put-attribute>
 		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp"></put-attribute>
 		<put-attribute name="content" value="/WEB-INF/tiles/admin.jsp"></put-attribute>
 		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp"></put-attribute>
 	</definition>
 	
 	<definition name="createmsgform" extends="messages.base">
-		<put-attribute  name="title" value="Offers Homepage"></put-attribute>
+		<put-attribute  name="title" value="New message"></put-attribute>
 		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp"></put-attribute>
 		<put-attribute name="content" value="/WEB-INF/tiles/createmsgform.jsp"></put-attribute>
 		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp"></put-attribute>
 	</definition>
 	
 	<definition name="denied" extends="messages.base">
-		<put-attribute  name="title" value="Offers Homepage"></put-attribute>
+		<put-attribute  name="title" value="Denied"></put-attribute>
 		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp"></put-attribute>
 		<put-attribute name="content" value="/WEB-INF/tiles/denied.jsp"></put-attribute>
 		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp"></put-attribute>
 	</definition>
 	
 	<definition name="loggedout" extends="messages.base">
-		<put-attribute  name="title" value="Offers Homepage"></put-attribute>
+		<put-attribute  name="title" value="Logged out"></put-attribute>
 		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp"></put-attribute>
 		<put-attribute name="content" value="/WEB-INF/tiles/loggedout.jsp"></put-attribute>
 		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp"></put-attribute>
 	</definition>
 	
 	<definition name="login" extends="messages.base">
-		<put-attribute  name="title" value="Offers Homepage"></put-attribute>
+		<put-attribute  name="title" value="Login"></put-attribute>
 		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp"></put-attribute>
 		<put-attribute name="content" value="/WEB-INF/tiles/login.jsp"></put-attribute>
 		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp"></put-attribute>
 	</definition>
 	
 	<definition name="messages" extends="messages.base">
-		<put-attribute  name="title" value="Offers Homepage"></put-attribute>
+		<put-attribute  name="title" value="Messages"></put-attribute>
 		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp"></put-attribute>
 		<put-attribute name="content" value="/WEB-INF/tiles/messages.jsp"></put-attribute>
 		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp"></put-attribute>
